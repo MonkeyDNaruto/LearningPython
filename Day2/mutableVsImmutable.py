@@ -1,0 +1,10 @@
+print("Mutable Vs Immutable")
+print("Mutable means changeable and Immutable means unchangeable")
+print("Mutable example: ")
+list = [1, 2, 3]
+print(list)
+list.append(4)
+print(list)
+print("Immutable example: ")
+num = (1, 2, 3)
+print(num)
