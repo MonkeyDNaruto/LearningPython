@@ -1,0 +1,2 @@
+Hello, World!
+The length of the sentence is: 13
